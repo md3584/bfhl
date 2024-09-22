@@ -13,4 +13,4 @@ POST method endpoint takes in the request (JSON) and returns the following:
 GET method endpoint doesn’t take any user input, it just returns an operation_code
 
 ### Deployed site
-https://bfhl-kjgc.onrender.com/bfhl
+
